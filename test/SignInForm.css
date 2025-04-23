@@ -1,0 +1,16 @@
+.sign-in-form {
+    max-width: 300px;
+    margin: auto;
+    padding: 10px;
+  }
+  input {
+    width: 100%;
+    margin: 5px 0;
+    padding: 8px;
+  }
+  button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+  }
+  
